@@ -122,9 +122,9 @@
       </tbody>
     </table>
     <h2 id="photo">生活照</h2>
-    <div><img src="/11.36c0dc09.jpg" alt="图一" width="400"></div>
-    <div><img src="/4.d6d56704.jpg" alt="图二" width="400"></div>
-    <div><img src="/8.95f824f0.jpg" alt="图三" width="400"></div>
+    <div><img src="/11.HASH_REF_98befa008dfd5e852703831636c0dc09.jpg" alt="图一" width="400"></div>
+    <div><img src="/4.HASH_REF_d6c3b150e2654abf85517bd2d6d56704.jpg" alt="图二" width="400"></div>
+    <div><img src="/8.HASH_REF_5a398e240dbd1a63033daf2d95f824f0.jpg" alt="图三" width="400"></div>
     <h2 id="life">经历</h2>
     <p>
       2016年4月26日，张杰在我想音乐计划启动发布会上宣布成立个人厂
@@ -146,6 +146,7 @@
       2020年7月30日举行《听！我们的歌》线上直播音乐会。2020年12月20日在
       长沙同步线上直播举行《WE·LIVE生日演唱会》。
     </p>
+    <div></div>
   </body>
 </html>
-<script src="/index.3ebff041.js"></script>
+<script src="/index.HASH_REF_1cf92b8ac789bf0c8bd4b6d53ebff041.js"></script>

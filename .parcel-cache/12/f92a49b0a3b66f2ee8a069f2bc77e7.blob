@@ -5,10 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>张杰</title>
-    <style>img {
+    <style data-parcel-key="cdd1baffece2cf6c5cd3938a844e31ad">
+      img {
         max-width: 100%;
       }
-</style>
+    </style>
   </head>
   <body>
     <nav>
@@ -122,9 +123,9 @@
       </tbody>
     </table>
     <h2 id="photo">生活照</h2>
-    <div><img src="/11.36c0dc09.jpg" alt="图一" width="400"></div>
-    <div><img src="/4.d6d56704.jpg" alt="图二" width="400"></div>
-    <div><img src="/8.95f824f0.jpg" alt="图三" width="400"></div>
+    <div><img src="3cd27c85972d7ec8098dad93a7b2527f" alt="图一" width="400"></div>
+    <div><img src="0042f5fb2e0033f7bbe731686ff028d8" alt="图二" width="400"></div>
+    <div><img src="935446b4b0854787dbf8f1f94fcbf6bc" alt="图三" width="400"></div>
     <h2 id="life">经历</h2>
     <p>
       2016年4月26日，张杰在我想音乐计划启动发布会上宣布成立个人厂
@@ -146,6 +147,7 @@
       2020年7月30日举行《听！我们的歌》线上直播音乐会。2020年12月20日在
       长沙同步线上直播举行《WE·LIVE生日演唱会》。
     </p>
+    <div></div>
   </body>
 </html>
-<script src="/index.3ebff041.js"></script>
+<script src="202f65accccb6071212b96a1d3c27081"></script>

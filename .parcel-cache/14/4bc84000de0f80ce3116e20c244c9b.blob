@@ -15,10 +15,6 @@
       <ol>
         <li><a href="#json">个人简介</a></li>
         <li><a href="#events">重要事件</a></li>
-        <li><a href="#awards">成就和荣誉</a></li>
-        <li><a href="#works">主要作品</a></li>
-        <li><a href="#photo">生活照</a></li>
-        <li><a href="#life">经历</a></li>
       </ol>
     </nav>
     <h1 id="json">张杰</h1>
@@ -49,7 +45,7 @@
         2019年1月20日，张杰出席中国文娱金数据发布盛典，并获得年度人气歌手奖。
       </li>
     </ul>
-    <h2 id="awards">成就和荣誉</h2>
+    <h2>成就和荣誉</h2>
     <ul>
       <li>2018-8-19：2018亚洲新歌榜 最受欢迎MV Pretty White Lies。</li>
       <li>
@@ -70,7 +66,7 @@
         内地最受欢迎男歌手、榜中榜最具人气演唱会 “为爱逆战”巡回演唱会。等等。
       </li>
     </ul>
-    <h2 id="works">主要作品</h2>
+    <h2>主要作品</h2>
     <table>
       <thead>
         <tr>
@@ -121,11 +117,11 @@
         </tr>
       </tbody>
     </table>
-    <h2 id="photo">生活照</h2>
-    <div><img src="/11.36c0dc09.jpg" alt="图一" width="400"></div>
-    <div><img src="/4.d6d56704.jpg" alt="图二" width="400"></div>
-    <div><img src="/8.95f824f0.jpg" alt="图三" width="400"></div>
-    <h2 id="life">经历</h2>
+    <h2>生活照</h2>
+    <div><img src="/11.HASH_REF_98befa008dfd5e852703831636c0dc09.jpg" alt="图一" width="400"></div>
+    <div><img src="/4.HASH_REF_d6c3b150e2654abf85517bd2d6d56704.jpg" alt="图二" width="400"></div>
+    <div><img src="/8.HASH_REF_5a398e240dbd1a63033daf2d95f824f0.jpg" alt="图三" width="400"></div>
+    <h2>经历</h2>
     <p>
       2016年4月26日，张杰在我想音乐计划启动发布会上宣布成立个人厂
       牌行星文化。张杰2016“我想”世界巡回演唱会是歌手张杰第三次巡回
@@ -148,4 +144,4 @@
     </p>
   </body>
 </html>
-<script src="/index.3ebff041.js"></script>
+<script src="/index.HASH_REF_1cf92b8ac789bf0c8bd4b6d53ebff041.js"></script>
